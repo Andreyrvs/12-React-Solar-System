@@ -2,8 +2,8 @@ import React from 'react';
 
 class PlanetCard extends React.Component {
   render() {
-    const planetName = this.props;
-    const planetImage = this.props;
+    const { planetName } = this.props;
+    const { planetImage } = this.props;
 
     return (
       <div data-testid="planet-card">
