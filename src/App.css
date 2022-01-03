@@ -20,8 +20,8 @@ body {
   display: flex;
   font-size: 30px;
   justify-content: center;
-  padding: 10px;
   margin-inline: auto;
+  padding: 10px;
   width: min(90%, 1980px);
 }
 
