@@ -4,7 +4,6 @@
 
 Este projeto tem como obetivo simular uma visualização do Sistema Solar, bem como fornecer informações sobre diversas missões espaciais que ocorreram ao longo da história.
 
-
 ## Técnologias usadas
 
 Front-end:
