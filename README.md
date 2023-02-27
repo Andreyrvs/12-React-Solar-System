@@ -2,7 +2,7 @@
 
 ## Contexto
 
-Este projeto tem como obetivo simular uma visualização do Sistema Solar, bem como fornecer informações sobre diversas missões espaciais que ocorreram ao longo da história.
+Este projeto visa simular uma visualização do Sistema Solar, bem como fornecer informações sobre diversas missões espaciais que ocorreram ao longo da história.
 
 ## Técnologias usadas
 
@@ -23,9 +23,9 @@ Adquiri essas habilidades ao desenvolver esse projeto:
 
 - Criar múltiplos componentes a partir de um array
 
-- Fazer uso de props corretamente
+- Usar props corretamente
 
-- Fazer uso de PropTypes para validar as props de um componente
+- Usar PropTypes para validar as props de um componente
 
 ## Instalando Dependências
 
