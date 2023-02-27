@@ -2,7 +2,7 @@
 
 ## Contexto
 
-Este projeto trata-se de uma ferramenta de back-office para armazenar e buscar dados de erros que ocorreram com clientes.
+Este projeto tem como obetivo simular uma visualização do Sistema Solar, bem como fornecer informações sobre diversas missões espaciais que ocorreram ao longo da história.
 
 ## Habilidades
 
@@ -25,35 +25,27 @@ Adquiri essas habilidades ao desenvolver esse projeto:
 ## Técnologias usadas
 
 Front-end:
-> Desenvolvido usando: React, Redux, CSS3, HTML5, Redis, ES6
+> Desenvolvido usando: React, PropTypes.
 
 ## Instalando Dependências
 
-* clone o projeto:
+- clone o projeto:
 
   ```bash
-  git clone 
+  git clone git@github.com:Andreyrvs/12-React-Solar-System.git
   ```
 
   > Frontend
 
   ```bash
-  cd src/
+  cd 12-React-Solar-System/
   npm install
   ```
 
 ## Executando aplicação
 
-* Para rodar o front-end:
+- Para rodar o front-end:
 
   ```bash
   cd src/ && npm start
-  ```
-
-## Executando Testes
-
-* Para rodar todos os testes:
-
-  ```bash
-  npm test
   ```
