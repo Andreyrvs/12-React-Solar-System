@@ -4,6 +4,12 @@
 
 Este projeto tem como obetivo simular uma visualização do Sistema Solar, bem como fornecer informações sobre diversas missões espaciais que ocorreram ao longo da história.
 
+
+## Técnologias usadas
+
+Front-end:
+> Desenvolvido usando: React, PropTypes.
+
 ## Habilidades
 
 Adquiri essas habilidades ao desenvolver esse projeto:
@@ -21,11 +27,6 @@ Adquiri essas habilidades ao desenvolver esse projeto:
 - Fazer uso de props corretamente
 
 - Fazer uso de PropTypes para validar as props de um componente
-
-## Técnologias usadas
-
-Front-end:
-> Desenvolvido usando: React, PropTypes.
 
 ## Instalando Dependências
 
